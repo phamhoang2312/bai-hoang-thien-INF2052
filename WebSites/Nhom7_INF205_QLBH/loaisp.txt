@@ -1,8 +1,3 @@
-﻿
-
-
-
-
 thêm loại sản phẩm : Mũ
 Sửa loại sản phẩm Áo : GIầy
 Xóa loại sản phẩm : ÁO dài tay
