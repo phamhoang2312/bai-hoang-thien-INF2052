@@ -75,7 +75,7 @@
     </asp:Panel>
          <asp:Panel ID="Panel5" runat="server">
              <h3 class="auto-style1">&nbsp;</h3>
-             <h3 class="auto-style1"><em>Danh Mục Sản Phẩm</em></h3>
+             <h3 class="auto-style1"><em>Danh Mục SP</em></h3>
              <p class="auto-style1">
                  <asp:DetailsView ID="DetailsView7" runat="server" AllowPaging="True" AutoGenerateRows="False" BackColor="White" BorderColor="#999999" BorderStyle="None" BorderWidth="1px" CellPadding="3" DataKeyNames="MaSP" DataSourceID="DanhMuc" GridLines="Vertical" Height="50px" Width="394px">
                      <AlternatingRowStyle BackColor="#DCDCDC" />
